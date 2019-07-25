@@ -175,3 +175,10 @@ p {
     padding-top: 5%;
   }
 }
+
+@media screen and (max-width: 770px) {
+  .press-img {
+    width: 20%;
+    margin: 20px 30px 50px;
+  }
+}
